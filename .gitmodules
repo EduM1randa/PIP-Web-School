@@ -1,0 +1,15 @@
+[submodule "PIP-Api-Gateway"]
+	path = PIP-Api-Gateway
+	url = https://github.com/EduM1randa/PIP-Api-Gateway.git
+[submodule "PIP-ms-attendance"]
+	path = PIP-ms-attendance
+	url = https://github.com/EduM1randa/PIP-ms-attendance.git
+[submodule "PIP-ms-chats"]
+	path = PIP-ms-chats
+	url = https://github.com/EduM1randa/PIP-ms-chats.git
+[submodule "PIP-ms-subjects"]
+	path = PIP-ms-subjects
+	url = https://github.com/EduM1randa/PIP-ms-subjects.git
+[submodule "PIP-ms-users"]
+	path = PIP-ms-users
+	url = https://github.com/EduM1randa/PIP-ms-users.git
